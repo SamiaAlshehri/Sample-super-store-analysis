@@ -28,8 +28,9 @@ Quantity
 Discount
 Profit
 
-Conclusion :
-I notice that 
+1.2: Conclusion :
+I notice that :
+
 1- The highest profit tois tal in the West Region
 and the least profit is  in the central region.
 2-Stranded class is the highest profit class, followed by the scound class.
@@ -42,8 +43,11 @@ and the least profit is  in the central region.
 9-The least profit state is taxes, followed by Ohio.
 
 Highest profit segment :
+
 Consumer =134007.44
+
 corporate =91954.98
+
 Home office=60279.00.
 
 10. The store owner should focus on the center area where there are the most losses
